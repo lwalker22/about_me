@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #929292;
+}
+
+#portrait img {
+  width: auto;
+  height: 500px;
+  padding: 15px;
+}
+
+#landscape img {
+  width: 400px;
+  height: auto;
+  padding: 15px;
+}
